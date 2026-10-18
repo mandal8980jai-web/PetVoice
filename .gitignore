@@ -1,0 +1,8 @@
+﻿.venv/
+.env
+*.db
+__pycache__/
+.pytest_cache/
+*.pyc
+
+_backup_before_rename/

@@ -1,0 +1,7 @@
+﻿streamlit
+pandas
+plotly
+google-genai
+python-dotenv
+reportlab
+pytest
